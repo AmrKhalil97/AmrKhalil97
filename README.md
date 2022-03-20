@@ -9,6 +9,7 @@
 ### Connect with me:
 
 [<a href="https://www.linkedin.com/in/amr-hisham/">LINKEDIN</a>](https://www.linkedin.com/in/amr-hisham-35225419b#gh-light-mode-only)
+[<a href="https://amrhisham97.github.io/portofolio/">PORTFOLIO</a>](https://www.linkedin.com/in/amr-hisham-35225419b#gh-light-mode-only)
 
 ### Languages and Tools:
 
