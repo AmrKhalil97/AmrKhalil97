@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Visual Studio Code"  src="https://s3-eu-west-1.amazonaws.com/skipsolabs-idb/frontend/section/newsidb/11652/d466a473302334e6cc89.png"  />](https://www.linkedin.com/in/amr-hisham-35225419b#gh-light-mode-only)
+[<a href="https://www.linkedin.com/in/amr-hisham/">LINKEDIN</a>](https://www.linkedin.com/in/amr-hisham-35225419b#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amr-hisham-35225419b#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
