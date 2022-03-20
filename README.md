@@ -1,6 +1,6 @@
 # Hi there, I'm Amr aka xebbino.  👋 
 
-## I'm a hardcore programmer!!
+## I'm a Mobile Software Engineer!!
 
 - 🌱 I’m currently learning any tech related stuff. 🤣
 - 🥅 2022 Goals: Learn more about mobile software development.
