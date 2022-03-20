@@ -20,9 +20,6 @@
 - GIT
 - GITHUB
 
-<br />
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
