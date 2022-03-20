@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<a href="https://www.linkedin.com/in/amr-hisham/">LINKEDIN</a>](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[<a href="https://amrhisham97.github.io/portofolio/">PORTFOLIO</a>](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[<a href="https://www.linkedin.com/in/amr-hisham/">LINKEDIN</a>](https://codestackr.com#gh-light-mode-only)
+[<a href="https://amrhisham97.github.io/portofolio/">PORTFOLIO</a>](https://codestackr.com#gh-light-mode-only)
 
 ### Languages and Tools:
 
