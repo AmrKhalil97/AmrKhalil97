@@ -1,4 +1,4 @@
-# Hi there, I'm Amr aka xebbino.  👋 
+# Hi there, I'm Amr.  👋 
 
 ## I'm a Mobile Software Engineer!!
 
