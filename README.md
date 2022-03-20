@@ -9,10 +9,6 @@
 ### Connect with me:
 
 [<a href="https://www.linkedin.com/in/amr-hisham/">LINKEDIN</a>](https://www.linkedin.com/in/amr-hisham-35225419b#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amr-hisham-35225419b#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
