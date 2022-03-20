@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<a href="https://www.linkedin.com/in/amr-hisham/">LINKEDIN</a>].
-[<a href="https://amrhisham97.github.io/portofolio/">PORTFOLIO</a>].
+[<a href="https://www.linkedin.com/in/amr-hisham/">LINKEDIN</a>]
+[<a href="https://amrhisham97.github.io/portofolio/">PORTFOLIO</a>]
 
 ### Languages and Tools:
 
