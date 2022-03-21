@@ -17,10 +17,10 @@
 ### Languages, Frameworks and Tools:
 
 - Dart
-- Flutter
 - Java
+- Flutter
+- Android native
 - GIT
-- GITHUB
 
 ---
 
