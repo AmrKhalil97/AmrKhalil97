@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<a href="https://www.linkedin.com/in/amr-hisham/">LINKEDIN</a>](https://codestackr.com#gh-light-mode-only)
+[<a href="https://www.linkedin.com/in/amr-elbilbasy-35225419b/">LINKEDIN</a>](https://codestackr.com#gh-light-mode-only)
 &nbsp;&nbsp;
 [<a href="https://amrhisham97.github.io/portofolio/">PORTFOLIO</a>](https://codestackr.com#gh-light-mode-only)
 &nbsp;&nbsp;
