@@ -1,6 +1,6 @@
 # Hi there, I'm Amr.  👋 
 
-## I'm a Mobile Software Engineer!!
+## I'm a Mobile Software Developer!!
 
 - 🌱 I’m currently learning open source contribution.
 - 🥅 2022 Goals: Learn more about mobile software development.
