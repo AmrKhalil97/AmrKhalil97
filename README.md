@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning open source contribution.
 - 🥅 2022 Goals: Learn more about mobile software development.
-- ⚡ Fun fact: Shaq hitted almost 12,000 baskets in his career. Exactly 1 of them was a 3-pointer.
 
 ### Connect with me:
 
