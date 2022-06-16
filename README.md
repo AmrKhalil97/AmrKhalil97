@@ -1,6 +1,6 @@
 # Hi there, I'm Amr.  👋 
 
-## I'm a junior flutter Developer!!
+## I'm a junior flutter developer!!
 
 - 🌱 I’m currently learning open source contribution.
 - 🥅 2022 Goals: Learn more about mobile software development.
