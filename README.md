@@ -1,8 +1,6 @@
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&lines=Hi%2C+I'm+a+mobile+application+developer.;Nice+to+meet+you...)](https://git.io/typing-svg)
-# Hi there, I'm Amr.  👋 
-
-## I'm a junior flutter developer!!
+# My name is Amr.  👋 
 
 - 🌱 I’m currently learning open source contribution.
 - 🥅 2022 Goals: Learn more about mobile software development.
