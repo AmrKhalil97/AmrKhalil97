@@ -1,3 +1,6 @@
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&lines=Hi%2C+I'm+a+computer+engineering+undergraduate.;Nice+to+meet+you...)](https://git.io/typing-svg)
+
 # Hi there, I'm Amr.  👋 
 
 ## I'm a junior flutter developer!!
