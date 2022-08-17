@@ -8,10 +8,6 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&l
 ### Connect with me:
 
 [<a href="https://www.linkedin.com/in/amr-elbilbasy-35225419b/">LINKEDIN</a>](https://codestackr.com#gh-light-mode-only)
-&nbsp;&nbsp;
-[<a href="https://amrhisham97.github.io/portofolio/">PORTFOLIO</a>](https://codestackr.com#gh-light-mode-only)
-&nbsp;&nbsp;
-[<a href="https://amr.hisham.khalil@gmail.com/">EMAIL</a>](https://codestackr.com#gh-light-mode-only)
 
 ### Languages, Frameworks and Tools:
 
