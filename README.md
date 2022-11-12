@@ -2,9 +2,11 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/amr-hisham-35225419b">LINKEDIN</a>
+<a href="https://www.linkedin.com/in/amr-hisham-35225419b">LinkedIn</a>
 
-<a href="https://www.linkedin.com/in/amr-hisham-35225419b">LINKEDIN</a>
+<a href="https://twitter.com/xebbiiii">Twitter</a>
+
+<a href="amr.hisham.khalil@gmail.com">Email</a>
 
 
 ### Languages, Frameworks and Tools:
