@@ -8,9 +8,8 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&l
 
 ### Languages, Frameworks and Tools:
 
-- Dart
-- Java
 - Flutter
+- Dart
 - Android native
 - GIT
 
