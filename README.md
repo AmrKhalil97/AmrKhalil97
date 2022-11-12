@@ -4,7 +4,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&l
 
 ### Connect with me:
 
-[<a href="https://www.linkedin.com/in/amr-elbilbasy-35225419b/">LINKEDIN</a>](https://codestackr.com#gh-light-mode-only)
+[<a href="[https://www.linkedin.com/in/amr-elbilbasy-35225419b/](https://www.linkedin.com/in/amr-hisham-35225419b/)">LINKEDIN</a>](https://codestackr.com#gh-light-mode-only)
 
 ### Languages, Frameworks and Tools:
 
