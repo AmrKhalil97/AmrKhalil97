@@ -2,9 +2,6 @@
 SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&lines=Hi%2C+I+am+a+flutter+developer.;Welcome+to+my+github+profile...)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning open source contribution.
-- 🥅 2022 Goals: Learn more about mobile software development.
-
 ### Connect with me:
 
 [<a href="https://www.linkedin.com/in/amr-elbilbasy-35225419b/">LINKEDIN</a>](https://codestackr.com#gh-light-mode-only)
