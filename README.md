@@ -1,6 +1,7 @@
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&vCenter=true&lines=Hi%2C+My+name+is+Amr+and+I+am+a+flutter+developer+;)](https://git.io/typing-svg)
 
+<h1>My name is Amr and I am a flutter developer</h1>
 
 ### Connect with me:
 
